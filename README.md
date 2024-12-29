@@ -1,4 +1,4 @@
-# Mohd Shahid Iqbal - Personal Portfolio
+ Personal Portfolio
 
 A responsive and interactive personal portfolio website built with **React.js** and **Next.js**. This project showcases different sections, such as "Welcome," "Projects," "Skills," "About Me," "Experience," "Testimonials," and "Contact," with smooth navigation and animations.
 
